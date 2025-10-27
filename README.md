@@ -1,11 +1,21 @@
-✨ #Tic Tac Toe : Play Smart, Win Fast ✨🎮
+# ✨ Tic Tac Toe : Play Smart, Win Fast ✨🎮
 
 A fun and interactive Tic Tac Toe Game built using HTML, CSS, and JavaScript.
 Challenge your friend, test your strategy, and see who conquers the 3x3 grid first!
 
 ---
 
-🚀 Features :
+👉 Live Demo :
+🔗 [Let's Play](https://pravinwankhare.github.io/Tic-Tac-Toe-Game/) 🎮
+
+---
+
+# 📸 Project Demo :
+![Demo](https://github.com/PravinWankhare/Tic-Tac-Toe-Game/blob/main/Tic-Tac-Toe%20Demo.png)
+
+---
+
+# 🚀 Features :
 
 🎮 Two-player gameplay (X vs O)
 
@@ -21,17 +31,7 @@ Challenge your friend, test your strategy, and see who conquers the 3x3 grid fir
 
 ---
 
-📸 Project Demo :
-
-🔗 Let's Try :
-
----
-
-👉 Live Demo
-
----
-
-🎮 How to Play :
+# 🎮 How to Play :
 
 1.Open the game in your browser.
 
@@ -45,7 +45,7 @@ Challenge your friend, test your strategy, and see who conquers the 3x3 grid fir
 
 ---
 
-📂 Project Structure :
+# 📂 Project Structure :
 Tic-Tac-Toe-Game/
 
 ├── index.html   →  Main HTML structure
@@ -60,7 +60,7 @@ Tic-Tac-Toe-Game/
 
 ---
 
-🛠 Technologies Used :
+## 🛠 Technologies Used :
 
 💻 HTML5 – For game structure
 
@@ -70,7 +70,7 @@ Tic-Tac-Toe-Game/
 
 ---
 
-💡 Future Enhancements :
+# 💡 Future Enhancements :
 
 ⭐ Highlight winning pattern
 
